@@ -1,0 +1,22 @@
+body {
+    font-family: Arial;
+    width: 600px;
+    margin: 40px auto;
+}
+
+h1 {
+    color: navy;
+}
+
+input {
+    width: 70%;
+    padding: 10px;
+}
+
+button {
+    padding: 10px;
+}
+
+li {
+    margin: 10px 0;
+}
